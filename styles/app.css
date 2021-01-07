@@ -61,8 +61,15 @@ select:active {
 
 /* Global */
 body {
-  font-family: "gotham-bold", "gotham-light", "helvetica-light",
-    "helvetica-medium", "helvetica-bold", helvetica, arial, sans-serif;
+  font-family:
+    "gotham-bold",
+    "gotham-light",
+    "helvetica-light",
+    "helvetica-medium",
+    "helvetica-bold",
+    helvetica,
+    arial,
+    sans-serif;
   line-height: 1.4;
   max-width: 1920px;
   margin: 0 auto;
@@ -89,18 +96,35 @@ img {
 }
 
 .font-gotham-light {
-  font-family: "gotham-light", "gotham-bold", "helvetica-light",
-    "helvetica-medium", "helvetica-bold", helvetica, arial, sans-serif;
+  font-family:
+    "gotham-light",
+    "gotham-bold",
+    "helvetica-light",
+    "helvetica-medium",
+    "helvetica-bold",
+    helvetica,
+    arial,
+    sans-serif;
 }
 
 .font-helvetica {
-  font-family: "helvetica-medium", "helvetica-light", "helvetica-bold",
-    helvetica, arial, sans-serif;
+  font-family:
+    "helvetica-medium",
+    "helvetica-light",
+    "helvetica-bold",
+    helvetica,
+    arial,
+    sans-serif;
 }
 
 .font-helvetica-light {
-  font-family: "helvetica-light", "helvetica-medium", "helvetica-bold",
-    helvetica, arial, sans-serif;
+  font-family:
+    "helvetica-light",
+    "helvetica-medium",
+    "helvetica-bold",
+    helvetica,
+    arial,
+    sans-serif;
 }
 
 .active,
@@ -113,8 +137,15 @@ img {
   border-radius: 4px;
   background-color: #d35266;
   color: white;
-  font-family: "gotham-light", "gotham-bold", "helvetica-light",
-    "helvetica-medium", "helvetica-bold", helvetica, arial, sans-serif;
+  font-family:
+    "gotham-light",
+    "gotham-bold",
+    "helvetica-light",
+    "helvetica-medium",
+    "helvetica-bold",
+    helvetica,
+    arial,
+    sans-serif;
 }
 
 .d-grid {
@@ -137,6 +168,7 @@ img {
   width: 100%;
   max-width: 992px;
   margin: 0 auto;
+
   /* Search page */
 }
 
@@ -170,7 +202,8 @@ img {
 /* Showcase */
 .showcase {
   background: #d35266;
-  background: linear-gradient(
+  background:
+    linear-gradient(
       270deg,
       rgba(211, 82, 102, 0.4037990196) 0%,
       rgba(211, 82, 102, 0.8043592437) 25%,
@@ -301,7 +334,7 @@ img {
 
 .articles .articles-container .article .article-button {
   font-size: 20px;
-  color: #bbbbbb;
+  color: #bbb;
   background-color: #fff;
 }
 
@@ -314,11 +347,7 @@ img {
   left: calc(50% - 75px);
 }
 
-.articles
-  .articles-container
-  .article
-  .article-popover
-  .article-popover-item:last-child::after {
+.articles .articles-container .article .article-popover .article-popover-item:last-child::after {
   content: " ";
   display: block;
   position: absolute;
@@ -341,16 +370,8 @@ img {
 }
 
 .articles .articles-container .article .article-button:hover + .article-popover,
-.articles
-  .articles-container
-  .article
-  .article-button:active
-  + .article-popover,
-.articles
-  .articles-container
-  .article
-  .article-button:focus
-  + .article-popover {
+.articles .articles-container .article .article-button:active + .article-popover,
+.articles .articles-container .article .article-button:focus + .article-popover {
   display: block;
 }
 
@@ -363,7 +384,9 @@ img {
 
 .search-grid-container {
   max-width: 1024px;
+
   /* Aside filters */
+
   /* Main articles */
 }
 
@@ -391,11 +414,7 @@ img {
   border: 1px solid #dee2e6;
 }
 
-.search-grid-container
-  .search-articles
-  .search-article
-  .search-article-image
-  img {
+.search-grid-container .search-articles .search-article .search-article-image img {
   height: 100%;
   max-height: 270px;
   object-fit: cover;
@@ -618,5 +637,3 @@ img {
     background-color: #d35266;
   }
 }
-
-/*# sourceMappingURL=app.css.map */
