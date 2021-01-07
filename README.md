@@ -8,7 +8,7 @@
 
 ## Watch a video presentation of the project [here](https://www.loom.com/share/c87e366ba2fa4dc7a7d714434ab65a01
 
-).
+)
 
 ## Screenshot of the index page
 
