@@ -6,7 +6,9 @@
 
 > This is a capstone/exam project for the [Microverse](https://www.microverse.org) module HTML/CSS. It is a Crafts(handmades) website using HTML, CSS3/SCSS, Bootstrap, and Font awesome.
 
-## Watch a video presentation of the project [here](https://www.loom.com/share/1ecb819a678e4b3f8681da87415597cf). The website is built using this [mockup](https://www.behance.net/gallery/24796463/ZATTIX)
+## Watch a video presentation of the project [here](https://www.loom.com/share/c87e366ba2fa4dc7a7d714434ab65a01
+
+).
 
 ## Screenshot of the index page
 
