@@ -29,7 +29,7 @@ The project is built using HTML and CSS/SCSS with an extensive use of the grid a
 
 ## Live Demo
 
-[Live Demo](https://raw.githack.com/KCnick/microverse-HTML-CSS-capstone-project-online-shop-for-electronics/dev/index.html)
+[Live Demo](https://kcnick.github.io/online-shop/)
 
 (N between pages using the navigation links and the search form.)
 
